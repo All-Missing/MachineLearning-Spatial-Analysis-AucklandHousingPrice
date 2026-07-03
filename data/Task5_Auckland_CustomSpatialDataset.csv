@@ -1,0 +1,31 @@
+suburbs,latitude,longitude,distanceCBD,medianPrice,cbdProximityScore,distanceBand,coastalAmenityFlag,prototypeLandType,valueBand,targetType
+Auckland Central,-36.8485,174.7633,0.5,480000,0.992307692307692,Central / Inner,1,Coastal / harbour urban land,Low,Median house price proxy
+Parnell,-36.8569,174.7812,2,1850000,0.969230769230769,Central / Inner,1,Coastal / harbour urban land,High,Median house price proxy
+Ponsonby,-36.8477,174.7432,3,2100000,0.953846153846154,Central / Inner,0,Central urban land,High,Median house price proxy
+Grey Lynn,-36.8587,174.7337,4,1900000,0.938461538461538,Central / Inner,0,Central urban land,High,Median house price proxy
+Herne Bay,-36.8442,174.7307,4.5,3200000,0.930769230769231,Central / Inner,1,Coastal / harbour urban land,High,Median house price proxy
+Mount Eden,-36.8771,174.7641,6,1750000,0.907692307692308,Inner suburban,0,Suburban residential land,High,Median house price proxy
+Epsom,-36.891,174.774,7,1850000,0.892307692307692,Inner suburban,0,Suburban residential land,High,Median house price proxy
+Onehunga,-36.922,174.7831,9,1300000,0.861538461538462,Inner suburban,0,Suburban residential land,Medium,Median house price proxy
+Ellerslie,-36.8995,174.8072,10,1450000,0.846153846153846,Inner suburban,0,Suburban residential land,Medium,Median house price proxy
+Royal Oak,-36.912,174.775,11,1400000,0.830769230769231,Inner suburban,0,Suburban residential land,Medium,Median house price proxy
+Glen Innes,-36.8782,174.856,12,1150000,0.815384615384615,Inner suburban,0,Suburban residential land,Medium,Median house price proxy
+Mount Wellington,-36.9029,174.8374,13,1100000,0.8,Middle suburban,0,Suburban residential land,Medium,Median house price proxy
+Howick,-36.8959,174.9333,18,1200000,0.723076923076923,Middle suburban,0,Suburban residential land,Medium,Median house price proxy
+Pakuranga,-36.9106,174.8708,17,1150000,0.738461538461539,Middle suburban,0,Suburban residential land,Medium,Median house price proxy
+Henderson,-36.8815,174.631,18,950000,0.723076923076923,Middle suburban,0,Suburban residential land,Low,Median house price proxy
+Te Atatu South,-36.8561,174.6516,16,1050000,0.753846153846154,Middle suburban,0,Suburban residential land,Medium,Median house price proxy
+Massey,-36.8248,174.6078,22,900000,0.661538461538462,Middle suburban,0,Suburban residential land,Low,Median house price proxy
+Albany,-36.7285,174.701,20,1200000,0.692307692307692,Middle suburban,0,Suburban residential land,Medium,Median house price proxy
+Browns Bay,-36.7141,174.747,19,1300000,0.707692307692308,Middle suburban,1,Coastal / harbour urban land,Medium,Median house price proxy
+Northcote,-36.8018,174.7492,9,1250000,0.861538461538462,Inner suburban,0,Suburban residential land,Medium,Median house price proxy
+Papatoetoe,-36.9783,174.8498,20,1000000,0.692307692307692,Middle suburban,0,Suburban residential land,Medium,Median house price proxy
+Manukau,-36.9928,174.879,22,880000,0.661538461538462,Middle suburban,0,Suburban residential land,Low,Median house price proxy
+Papakura,-37.0657,174.9439,32,820000,0.507692307692308,Outer suburban,0,Outer urban / satellite town land,Low,Median house price proxy
+Takanini,-37.0474,174.925,30,870000,0.538461538461538,Outer suburban,0,Outer urban / satellite town land,Low,Median house price proxy
+Pukekohe,-37.2004,174.901,50,780000,0.230769230769231,Outer suburban,0,Outer urban / satellite town land,Low,Median house price proxy
+Beachlands,-36.8844,175.0005,35,1200000,0.461538461538462,Outer suburban,1,Coastal / harbour urban land,Medium,Median house price proxy
+Orewa,-36.5885,174.6962,40,1250000,0.384615384615385,Outer suburban,1,Coastal / harbour urban land,Medium,Median house price proxy
+Warkworth,-36.4,174.667,65,850000,0,Outer suburban,1,Coastal / harbour urban land,Low,Median house price proxy
+Devonport,-36.828,174.796,10,1900000,0.846153846153846,Inner suburban,1,Coastal / harbour urban land,High,Median house price proxy
+Takapuna,-36.7878,174.7745,8,1800000,0.876923076923077,Inner suburban,1,Coastal / harbour urban land,High,Median house price proxy

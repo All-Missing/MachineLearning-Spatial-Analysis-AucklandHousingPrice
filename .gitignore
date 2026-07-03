@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Exclude personal assignment submission files
+Assignment2_JoshMa.docx
+Assignment2_JoshMa.pdf
+COMP717_26_Assign2-2.pdf
+Task6c.docx
+Tutorial_6a_Walking_Order.txt
+AkldHousePrice_DataOnly.m
+Tas3b_HousePriceFit.m
+
+# Exclude loose root-level images (already copied to images/ folder)
+input_lat1.png
+input_lat2.png
+input_lat3.png
+Task3 Figure1.png
+Task4a_figure1.png
+Task4b_Figure1.png
+Task5_Figure1.png
+Task5_Figure2.png
+Task5_Figure3.png
+
+# Exclude loose root-level data files (already copied to data/ folder)
+/AkldHousePrice.mat
+/Task5_Auckland_CustomSpatialDataset.csv
+/Task3b_HousePriceFit.mlx
+/Task4a.mlx
+/Task4b_ValidationSSE.mlx
+/Task5.mlx
+/where-auckland-wants-to-live.pdf
